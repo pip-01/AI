@@ -1,7 +1,7 @@
 This is the index page to all of the General knowledge website pages.
 
 
-### Index of courses to learn:  
+### <u>Index of courses to learn:</u>  
 #### Prompt Engineering  
 [1. Prompt Engineering - Beginner](https://pip-01.github.io/AI/Prompt-engineering-beginner)  
 [2. Prompt Engineering - Intermediate](https://pip-01.github.io/AI/Prompt-engineering-intermediate)  
