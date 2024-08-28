@@ -32,4 +32,35 @@ This is the index page to all of the General knowledge website pages.
 [2. Robotics - Intermediate](https://pip-01.github.io/AI/Robotics-intermediate)  
 [3. Robotics - Advanced](https://pip-01.github.io/AI/Robotics-advanced)  
   
+
+### Use Template:
   
+### 1. Applications of Language Models
+
+
+
+---  
+
+##### 1.1 Paragraph
+
+
+
+---  
+
+##### 1.2 Paragraph
+
+
+
+---  
+
+##### 1.3 Paragraph
+
+
+
+---  
+
+##### 1.4 Paragraph
+
+
+
+---  
