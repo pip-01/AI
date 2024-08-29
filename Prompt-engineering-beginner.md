@@ -8,12 +8,12 @@
 [Overview](https://pip-01.github.io/AI/Prompt-engineering-beginner#overview)  
 [1 Basics-of-interacting-with-language-models](https://pip-01.github.io/AI/Prompt-engineering-beginner#1-basics-of-interacting-with-language-models-1)   
 [2-understanding-prompt-structure](https://pip-01.github.io/AI/Prompt-engineering-beginner#2-understanding-prompt-structure-1)  
+[3-crafting-simple-prompts](https://pip-01.github.io/AI/Prompt-engineering-beginner#3-crafting-simple-prompts-1)  
+[4-introduction-to-key-concepts](https://pip-01.github.io/AI/Prompt-engineering-beginner#4-introduction-to-key-concepts)  
+[5-overview-of-how-language-models-like-gpt-3-work](https://pip-01.github.io/AI/Prompt-engineering-beginner#5-overview-of-how-language-models-like-gpt-3-work-1)  
+[6-applications-of-language-models](https://pip-01.github.io/AI/Prompt-engineering-beginner#6-applications-of-language-models)  
 []()  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
+
   
 ---  
   
