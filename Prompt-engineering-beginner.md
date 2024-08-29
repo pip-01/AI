@@ -5,8 +5,14 @@
   
 #### Course Outline:  
   
+[Overview](https://pip-01.github.io/AI/Prompt-engineering-beginner#overview)  
+[1 Basics-of-interacting-with-language-models](https://pip-01.github.io/AI/Prompt-engineering-beginner#1-basics-of-interacting-with-language-models-1)   
+[2-understanding-prompt-structure](https://pip-01.github.io/AI/Prompt-engineering-beginner#2-understanding-prompt-structure-1)  
 []()  
-[]()   
+[]()  
+[]()  
+[]()  
+[]()  
 []()  
   
 ---  
