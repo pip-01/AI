@@ -6,11 +6,9 @@
 #### Course Outline:  
   
 [Overview](https://pip-01.github.io/AI/Prompt-engineering-intermediate#overview)  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
+[1-exploration-of-more-complex-prompting-techniques](https://pip-01.github.io/AI/Prompt-engineering-intermediate#1-exploration-of-more-complex-prompting-techniques)  
+[2-developing-prompts-for-specific-tasks](https://pip-01.github.io/AI/Prompt-engineering-intermediate#2-developing-prompts-for-specific-tasks-2)  
+[3-applying-prompt-engineering-across-domains](https://pip-01.github.io/AI/Prompt-engineering-intermediate#3-applying-prompt-engineering-across-domains)  
 
   
 ---  
