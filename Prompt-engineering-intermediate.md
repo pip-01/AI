@@ -5,7 +5,7 @@
   
 #### Course Outline:  
   
-[Overview]()  
+[Overview](https://pip-01.github.io/AI/Prompt-engineering-intermediate#overview)  
 []()  
 []()  
 []()  
@@ -56,6 +56,8 @@ Prompt engineering is an essential skill in the realm of artificial intelligence
 ### Conclusion
 
 Understanding these advanced techniques and their practical applications allows individuals to harness AI more effectively. By mastering chain-of-thought prompting and context management while developing tailored prompts for tasks like summarization and sentiment analysis across various fields such as business and creative writing, learners can significantly improve their interaction with AI systems.
+
+--- 
 
 ##### 1. Complex Prompting Techniques
 
